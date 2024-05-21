@@ -13,7 +13,7 @@ function view_more(course_name) {
     </div>
     <div class="below_img">
       <p>John Doe</p>
-      <p>50 students</p>
+      <p>2852 students</p>
     </div>
   </div>
   <div class="features">
@@ -66,7 +66,7 @@ function view_more(course_name) {
     </div>
     <div class="below_img">
       <p>Jane Doe</p>
-      <p>37 students</p>
+      <p>2091 students</p>
     </div>
   </div>
   <div class="features">
